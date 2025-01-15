@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=VCC3V3 Pin=C5-1
+Removed Pin From Net: NetName=VCC3V3 Pin=C6-1
+Removed Pin From Net: NetName=VCC3V3 Pin=C7-1
+Removed Pin From Net: NetName=VCC3V3 Pin=C8-1
+Removed Pin From Net: NetName=VCC3V3 Pin=DS1-1
+Removed Pin From Net: NetName=VCC3V3 Pin=DS2-1
+Removed Pin From Net: NetName=VCC3V3 Pin=H2-1
+Removed Pin From Net: NetName=VCC3V3 Pin=H2-2
+Removed Pin From Net: NetName=GND Pin=H2-5
+Removed Pin From Net: NetName=GND Pin=H2-6
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=NetC11_2 Pin=U1-3
+Removed Pin From Net: NetName=NetC12_2 Pin=U1-4
+Removed Pin From Net: NetName=NetC9_2 Pin=U1-5
+Removed Pin From Net: NetName=NetC10_2 Pin=U1-6
+Removed Pin From Net: NetName=VCC3V3 Pin=U1-9
+Removed Pin From Net: NetName=VCC3V3 Pin=U1-24
+Removed Pin From Net: NetName=VCC3V3 Pin=U1-36
+Removed Pin From Net: NetName=VCC3V3 Pin=U1-48
+Added Component: Designator=H3(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=VCC3V3 Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-2
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=NetU1_7 Pin=U1-7
+Added Net: Name=NetU1_7
+Added Pin To Net: NetName=NetU1_10 Pin=U1-10
+Added Net: Name=NetU1_10
+Added Pin To Net: NetName=NetU1_11 Pin=U1-11
+Added Net: Name=NetU1_11
+Added Pin To Net: NetName=NetU1_12 Pin=U1-12
+Added Net: Name=NetU1_12
+Added Pin To Net: NetName=NetU1_13 Pin=U1-13
+Added Net: Name=NetU1_13
+Added Pin To Net: NetName=NetU1_14 Pin=U1-14
+Added Net: Name=NetU1_14
+Added Pin To Net: NetName=NetU1_15 Pin=U1-15
+Added Net: Name=NetU1_15
+Added Pin To Net: NetName=NetU1_16 Pin=U1-16
+Added Net: Name=NetU1_16
+Added Pin To Net: NetName=NetU1_17 Pin=U1-17
+Added Net: Name=NetU1_17
+Added Pin To Net: NetName=NetU1_25 Pin=U1-25
+Added Net: Name=NetU1_25
+Added Pin To Net: NetName=NetU1_26 Pin=U1-26
+Added Net: Name=NetU1_26
+Added Pin To Net: NetName=NetU1_27 Pin=U1-27
+Added Net: Name=NetU1_27
+Added Pin To Net: NetName=NetU1_28 Pin=U1-28
+Added Net: Name=NetU1_28
+Added Pin To Net: NetName=NetU1_39 Pin=U1-39
+Added Net: Name=NetU1_39
+Added Pin To Net: NetName=NetU1_40 Pin=U1-40
+Added Net: Name=NetU1_40
+Added Pin To Net: NetName=NetU1_42 Pin=U1-42
+Added Net: Name=NetU1_42
+Added Pin To Net: NetName=NetU1_43 Pin=U1-43
+Added Net: Name=NetU1_43
+Added Pin To Net: NetName=NetU1_44 Pin=U1-44
+Added Net: Name=NetU1_44
+Added Member To Class: ClassName=Sheet_Esquematico_STM32 Member=Component H3 Header 2
+Added Member To Class: ClassName=Sheet_Esquematico_STM32 Member=Component R5 Resistor 10k +/-1% 0603 100 mW

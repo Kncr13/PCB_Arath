@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=Y? NewDesignator=Y2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=C10-1
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=R5-1
+Added Pin To Net: NetName=NetC9_2 Pin=Y1-2
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=R5-2
+Added Pin To Net: NetName=NetC10_2 Pin=Y1-1
+Added Net: Name=NetC10_2
+Added Member To Class: ClassName=Sheet_Esquematico_STM32 Member=Component R5 Resistor 10k +/-1% 0603 100 mW

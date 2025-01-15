@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=NetC9_2 Pin=U1-5
+Added Pin To Net: NetName=NetC10_2 Pin=U1-6
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=U1-3
+Added Pin To Net: NetName=NetC11_2 Pin=Y2-1
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=U1-4
+Added Pin To Net: NetName=NetC12_2 Pin=Y2-4
+Added Net: Name=NetC12_2
+Added Member To Class: ClassName=Sheet_Esquematico_STM32 Member=Component R5 Resistor 10k +/-1% 0603 100 mW

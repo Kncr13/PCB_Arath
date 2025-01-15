@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetH5_5 Pin=H5-5
+Added Pin To Net: NetName=NetH5_5 Pin=U1-14
+Added Net: Name=NetH5_5
+Added Member To Class: ClassName=Sheet_Esquematico_STM32 Member=Component R5 Resistor 10k +/-1% 0603 100 mW

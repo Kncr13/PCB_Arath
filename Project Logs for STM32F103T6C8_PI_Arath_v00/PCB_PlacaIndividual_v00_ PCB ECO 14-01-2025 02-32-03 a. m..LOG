@@ -1,0 +1,58 @@
+Removed Member From Class: ClassName=Sheet_Esquematico_STM32 Member=DS1
+Change Component Footprint: Designator=DS? Old Footprint=AVAG-HSMW-C191_V New Footprint=LTST-LTW-C191TS5_V
+Change Component Footprint: Designator=DS? Old Footprint=LTST-LTW-C191TS5_V New Footprint=AVAG-HSMW-C191_V
+Change Component Comment : Designator=DS? Old Comment=HSMW-C191 New Comment=LTW-C191TS5
+Change Component Comment : Designator=DS? Old Comment=LTW-C191TS5 New Comment=HSMW-C191
+Change Managed Component Library Link : Designator=DS? Old VaultGUID=3864426E-E98F-4C1C-967A-2BDF4D8123EE New VaultGUID=3864426E-E98F-4C1C-967A-2BDF4D8123EE Old ItemGUID=91EF2AA6-CE8A-46FE-9614-482BB7DF5A5A New ItemGUID=6C7D4BE6-FE24-4DEF-ABDE-2209E440AC4F Old RevisionGUID=6657B355-F009-42D5-8A0C-88D5095F9004 New RevisionGUID=639B8183-D8E6-4B8A-9E7A-7FA8ABF4EB8F
+Change Managed Component Library Link : Designator=DS? Old VaultGUID=3864426E-E98F-4C1C-967A-2BDF4D8123EE New VaultGUID=3864426E-E98F-4C1C-967A-2BDF4D8123EE Old ItemGUID=6C7D4BE6-FE24-4DEF-ABDE-2209E440AC4F New ItemGUID=91EF2AA6-CE8A-46FE-9614-482BB7DF5A5A Old RevisionGUID=639B8183-D8E6-4B8A-9E7A-7FA8ABF4EB8F New RevisionGUID=6657B355-F009-42D5-8A0C-88D5095F9004
+Change component parameters: Designator = "DS?" ("DS?"); Footprint = "AVAG-HSMW-C191_V"; UniqueID = "\AVBUAMJK" ("\AVBUAMJK")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Colour"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2004-201/S_110_LTW-C191TS5.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. B, 06/2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Current"; Value = "5mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Voltage"; Value = "3.15V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Illumination Colour"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lens Style"; Value = "Diffused"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Luminous Intensity"; Value = "28mcd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Lite-On"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.us.liteon.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "80°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-20°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Vf"; Value = "2.93V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 1.6 x 0.8 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "LTW-C191TS5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "70mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Viewing Angle"; Value = "130degrees"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DS?" ("DS?"); Footprint = "LTST-LTW-C191TS5_V"; UniqueID = "\RLKALJNX" ("\RLKALJNX")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Colour"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://docs.avagotech.com/docs/AV02-0186EN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "May-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Current"; Value = "20mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Voltage"; Value = "3.6V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Illumination Colour"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lens Style"; Value = "Diffused"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Luminous Intensity"; Value = "200mcd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Avago"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.avagotech.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Vf"; Value = "3.6V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 1.6 x 0.8 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "4000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "HSMW-C191"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "78mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Viewing Angle"; Value = "140degrees"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet_Esquematico_STM32 Member=Component DS? HSMW-C191

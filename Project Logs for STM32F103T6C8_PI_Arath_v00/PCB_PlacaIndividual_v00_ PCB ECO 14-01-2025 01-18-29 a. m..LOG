@@ -1,0 +1,11 @@
+Added Component: Designator=C2(CAPC1608X9N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GRT188R61C106ME13D/Murata+Electronics+North+America/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRT188R61C106ME13D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/GRT188R61C106ME13D/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRT188R61C106ME13D/Murata+Electronics+North+America/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet_Esquematico_STM32 Member=Component C2 GRT188R61C106ME13D

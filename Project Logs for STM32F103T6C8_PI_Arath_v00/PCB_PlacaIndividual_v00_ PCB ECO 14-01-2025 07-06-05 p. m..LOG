@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=VCC3V3 Pin=U1-48
+Added Member To Class: ClassName=Sheet_Esquematico_STM32 Member=Component R5 Resistor 10k +/-1% 0603 100 mW

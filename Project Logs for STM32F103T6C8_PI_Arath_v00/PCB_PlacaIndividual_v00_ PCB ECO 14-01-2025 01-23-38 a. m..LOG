@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAPC1608X90 New Footprint=CAPC0402(1005)60_L
+Change Component Comment : Designator=C1 Old Comment=CC0603MRX5R5BB106 New Comment=Capacitor 10µF +/-40% 6.3V 0402
+Change Managed Component Library Link : Designator=C1 Old VaultGUID= New VaultGUID=3864426E-E98F-4C1C-967A-2BDF4D8123EE Old ItemGUID= New ItemGUID=041872B8-71D5-47BC-AEDF-204A7DBEB60A Old RevisionGUID= New RevisionGUID=4BA5736F-E9BF-4F91-99D6-081987F7188C
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAPC1608X90"; UniqueID = "\JWBRNFSG" ("\JWBRNFSG")
+Change component parameters (AddParameter): Name = "Capacitor Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "6.3V"; VariantName = "[No Variations]"

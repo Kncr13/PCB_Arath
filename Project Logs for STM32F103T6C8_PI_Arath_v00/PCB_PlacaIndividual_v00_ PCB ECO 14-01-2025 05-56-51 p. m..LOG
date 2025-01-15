@@ -1,0 +1,41 @@
+Added Pin To Net: NetName=VCC3V3 Pin=C5-1
+Added Pin To Net: NetName=VCC3V3 Pin=C6-1
+Added Pin To Net: NetName=VCC3V3 Pin=C7-1
+Added Pin To Net: NetName=VCC3V3 Pin=C8-1
+Added Pin To Net: NetName=VCC3V3 Pin=DS1-1
+Added Pin To Net: NetName=VCC3V3 Pin=DS2-1
+Added Pin To Net: NetName=VCC3V3 Pin=H2-1
+Added Pin To Net: NetName=VCC3V3 Pin=H2-2
+Added Pin To Net: NetName=GND Pin=H2-5
+Added Pin To Net: NetName=GND Pin=H2-6
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=NetC11_2 Pin=U1-3
+Added Pin To Net: NetName=NetC12_2 Pin=U1-4
+Added Pin To Net: NetName=NetC9_2 Pin=U1-5
+Added Pin To Net: NetName=NetC10_2 Pin=U1-6
+Added Pin To Net: NetName=NetC3_1 Pin=U1-7
+Added Pin To Net: NetName=VCC3V3 Pin=U1-9
+Added Pin To Net: NetName=VCC3V3 Pin=U1-24
+Added Pin To Net: NetName=VCC3V3 Pin=U1-36
+Added Pin To Net: NetName=NetH1_2 Pin=H1-2
+Added Pin To Net: NetName=NetH1_2 Pin=U1-34
+Added Net: Name=NetH1_2
+Added Pin To Net: NetName=NetH1_3 Pin=H1-3
+Added Pin To Net: NetName=NetH1_3 Pin=U1-37
+Added Net: Name=NetH1_3
+Added Pin To Net: NetName=NetH2_3 Pin=H2-3
+Added Pin To Net: NetName=NetH2_3 Pin=R5-2
+Added Net: Name=NetH2_3
+Added Pin To Net: NetName=NetH2_4 Pin=H2-4
+Added Pin To Net: NetName=NetH2_4 Pin=R4-1
+Added Net: Name=NetH2_4
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U1-2
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U1-20
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U1-44
+Added Net: Name=NetR5_1
+Added Member To Class: ClassName=Sheet_Esquematico_STM32 Member=Component R5 Resistor 10k +/-1% 0603 100 mW

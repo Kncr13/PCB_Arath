@@ -1,0 +1,8 @@
+Added Component: Designator=U1(QFP50P900X900X160-48N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/STM32F103C8T6/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STM32F103C8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LQFP-48 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STM32F103C8T6/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Class: Name=Sheet_Esquematico_STM32

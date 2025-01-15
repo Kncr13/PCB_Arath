@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=DS? NewDesignator=DS1
+Change Component Designator: OldDesignator=DS? NewDesignator=DS2
+Added Member To Class: ClassName=Sheet_Esquematico_STM32 Member=Component DS2 HSMW-C191
