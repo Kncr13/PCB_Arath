@@ -1,0 +1,15 @@
+TP4056 Schematic:
+https://oshwlab.com/Little_Arc/TP4056
+
+Blue Pill Schematic:
+https://oshwlab.com/r3bers/STM32F103C8T6-Test-Board
+
+Barra LED:
+https://www.snapeda.com/parts/OSX10201-GGR1/OptoSupply/view-part/?welcome=home
+https://www.snapeda.com/search/?q=LED%3B+bargraph&search-type=parts
+
+Display 7 segments:
+https://www.snapeda.com/parts/LDS-C512RI/Lumex/view-part/?ref=search&t=display%207%20segments
+
+
+
